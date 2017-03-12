@@ -1,14 +1,42 @@
+main {
+    position: relative;
+    top: 30px;
 }
-main .row {
-    margin-bottom: 20px;
-}
+
 body {
     font-family: "Roboto", sans-serif;
     color: black;
 }
+
 header {
     background-color: #eebb44;
 }
+
+header span {
+    position: relative;
+    top: -15px;
+}
+
 .card {
     border: 1px solid #e5e5e5;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.card-character {
+    width: 100%;
+}
+
+.card-title {
+    padding: 15px;
+}
+
+.card-title h3 {
+    margin: 0;
+}
+
+.card-title span {
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
