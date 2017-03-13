@@ -40,3 +40,24 @@ header span {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+.good:hover {
+    display: block;
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+.evil:hover {
+    display: block;
+    background-color: #e74c3c;
+    color: white;
+    font-weight: bold;
+}
+
+.yoda:hover {
+    display: block;
+    background-color: #27ae60;
+    color: white;
+    font-weight: bold;
+}
