@@ -48,6 +48,10 @@ header span {
     font-weight: bold;
 }
 
+.col-4:hover {
+    width: 40%;
+}
+
 .evil:hover {
     display: block;
     background-color: #e74c3c;
